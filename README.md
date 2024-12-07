@@ -21,5 +21,4 @@ Open the index.html file in a web browser to access the laptop store.
 If you'd like to contribute to this project, you can fork the repository, make your desired changes, and submit a pull request. Contributions are always welcome!
 
 
-# License
-This project is licensed under the MIT License.
+
